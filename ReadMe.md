@@ -112,9 +112,9 @@ R scripts can be found in [R-Scripts folder](R-scripts). In this folder, you cou
 
 ## Authors
 
-* **[anonymous] [anonymous] ** 
-* **[anonymous] [anonymous] **
-* **[anonymous] [anonymous] **
+* **Ehsan Hamzei ** 
+* **Stephan Winter **
+* **Martin Tomko **
 
 ## License
 
