@@ -1,0 +1,668 @@
+﻿ID,Generic_Code,Type_code,Q_Type_Code,Desc_short
+1,A,ADM1,Q-ADM1,first-order administrative division
+1,A,ADM1H,Q-ADM1H,historical first-order administrative division
+1,A,ADM2,Q-ADM2,second-order administrative division
+1,A,ADM2H,Q-ADM2H,historical second-order administrative division
+1,A,ADM3,Q-ADM3,third-order administrative division
+1,A,ADM3H,Q-ADM3H,historical third-order administrative division
+1,A,ADM4,Q-ADM4,fourth-order administrative division
+1,A,ADM4H,Q-ADM4H,historical fourth-order administrative division
+1,A,ADM5,Q-ADM5,fifth-order administrative division
+1,A,ADMD,Q-ADMD,administrative division
+1,A,ADMDH,Q-ADMDH,historical administrative division
+1,A,LTER,Q-LTER,leased area
+1,A,PCL,Q-PCL,political entity
+1,A,PCLD,Q-PCLD,dependent political entity
+1,A,PCLF,Q-PCLF,freely associated state
+1,A,PCLH,Q-PCLH,historical political entity
+1,A,PCLI,Q-PCLI,independent political entity
+1,A,PCLIX,Q-PCLIX,section of independent political entity
+1,A,PCLS,Q-PCLS,semi-independent political entity
+1,A,PRSH,Q-PRSH,parish
+1,A,TERR,Q-TERR,territory
+1,A,ZN,Q-ZN,zone
+1,A,ZNB,Q-ZNB,buffer zone
+2,H,AIRS,Q-AIRS,seaplane landing area
+2,H,ANCH,Q-ANCH,anchorage
+2,H,BAY,Q-BAY,bay
+2,H,BAYS,Q-BAYS,bays
+2,H,BGHT,Q-BGHT,bight(s)
+2,H,BNK,Q-BNK,bank(s)
+2,H,BNKR,Q-BNKR,stream bank
+2,H,BNKX,Q-BNKX,section of bank
+2,H,BOG,Q-BOG,bog(s)
+2,H,CAPG,Q-CAPG,icecap
+2,H,CHN,Q-CHN,channel
+2,H,CHNL,Q-CHNL,lake channel(s)
+2,H,CHNM,Q-CHNM,marine channel
+2,H,CHNN,Q-CHNN,navigation channel
+2,H,CNFL,Q-CNFL,confluence
+2,H,CNL,Q-CNL,canal
+2,H,CNLA,Q-CNLA,aqueduct
+2,H,CNLB,Q-CNLB,canal bend
+2,H,CNLD,Q-CNLD,drainage canal
+2,H,CNLI,Q-CNLI,irrigation canal
+2,H,CNLN,Q-CNLN,navigation canal(s)
+2,H,CNLQ,Q-CNLQ,abandoned canal
+2,H,CNLSB,Q-CNLSB,underground irrigation canal(s)
+2,H,CNLX,Q-CNLX,section of canal
+2,H,COVE,Q-COVE,cove(s)
+2,H,CRKT,Q-CRKT,tidal creek(s)
+2,H,CRNT,Q-CRNT,current
+2,H,CUTF,Q-CUTF,cutoff
+2,H,DCK,Q-DCK,dock(s)
+2,H,DCKB,Q-DCKB,docking basin
+2,H,DOMG,Q-DOMG,icecap dome
+2,H,DPRG,Q-DPRG,icecap depression
+2,H,DTCH,Q-DTCH,ditch
+2,H,DTCHD,Q-DTCHD,drainage ditch
+2,H,DTCHI,Q-DTCHI,irrigation ditch
+2,H,DTCHM,Q-DTCHM,ditch mouth(s)
+2,H,ESTY,Q-ESTY,estuary
+2,H,FISH,Q-FISH,fishing area
+2,H,FJD,Q-FJD,fjord
+2,H,FJDS,Q-FJDS,fjords
+2,H,FLLS,Q-FLLS,waterfall(s)
+2,H,FLLSX,Q-FLLSX,section of waterfall(s)
+2,H,FLTM,Q-FLTM,mud flat(s)
+2,H,FLTT,Q-FLTT,tidal flat(s)
+2,H,GLCR,Q-GLCR,glacier(s)
+2,H,GULF,Q-GULF,gulf
+2,H,GYSR,Q-GYSR,geyser
+2,H,HBR,Q-HBR,harbor(s)
+2,H,HBRX,Q-HBRX,section of harbor
+2,H,INLT,Q-INLT,inlet
+2,H,INLTQ,Q-INLTQ,former inlet
+2,H,LBED,Q-LBED,lake bed(s)
+2,H,LGN,Q-LGN,lagoon
+2,H,LGNS,Q-LGNS,lagoons
+2,H,LGNX,Q-LGNX,section of lagoon
+2,H,LK,Q-LK,lake
+2,H,LKC,Q-LKC,crater lake
+2,H,LKI,Q-LKI,intermittent lake
+2,H,LKN,Q-LKN,salt lake
+2,H,LKNI,Q-LKNI,intermittent salt lake
+2,H,LKO,Q-LKO,oxbow lake
+2,H,LKOI,Q-LKOI,intermittent oxbow lake
+2,H,LKS,Q-LKS,lakes
+2,H,LKSB,Q-LKSB,underground lake
+2,H,LKSC,Q-LKSC,crater lakes
+2,H,LKSI,Q-LKSI,intermittent lakes
+2,H,LKSN,Q-LKSN,salt lakes
+2,H,LKSNI,Q-LKSNI,intermittent salt lakes
+2,H,LKX,Q-LKX,section of lake
+2,H,MFGN,Q-MFGN,salt evaporation ponds
+2,H,MGV,Q-MGV,mangrove swamp
+2,H,MOOR,Q-MOOR,moor(s)
+2,H,MRSH,Q-MRSH,marsh(es)
+2,H,MRSHN,Q-MRSHN,salt marsh
+2,H,NRWS,Q-NRWS,narrows
+2,H,OCN,Q-OCN,ocean
+2,H,OVF,Q-OVF,overfalls
+2,H,PND,Q-PND,pond
+2,H,PNDI,Q-PNDI,intermittent pond
+2,H,PNDN,Q-PNDN,salt pond
+2,H,PNDNI,Q-PNDNI,intermittent salt pond(s)
+2,H,PNDS,Q-PNDS,ponds
+2,H,PNDSF,Q-PNDSF,fishponds
+2,H,PNDSI,Q-PNDSI,intermittent ponds
+2,H,PNDSN,Q-PNDSN,salt ponds
+2,H,POOL,Q-POOL,pool(s)
+2,H,POOLI,Q-POOLI,intermittent pool
+2,H,RCH,Q-RCH,reach
+2,H,RDGG,Q-RDGG,icecap ridge
+2,H,RDST,Q-RDST,roadstead
+2,H,RF,Q-RF,reef(s)
+2,H,RFC,Q-RFC,coral reef(s)
+2,H,RFX,Q-RFX,section of reef
+2,H,RPDS,Q-RPDS,rapids
+2,H,RSV,Q-RSV,reservoir(s)
+2,H,RSVI,Q-RSVI,intermittent reservoir
+2,H,RSVT,Q-RSVT,water tank
+2,H,RVN,Q-RVN,ravine(s)
+2,H,SBKH,Q-SBKH,sabkha(s)
+2,H,SD,Q-SD,sound
+2,H,SEA,Q-SEA,sea
+2,H,SHOL,Q-SHOL,shoal(s)
+2,H,SILL,Q-SILL,sill
+2,H,SPNG,Q-SPNG,spring(s)
+2,H,SPNS,Q-SPNS,sulphur spring(s)
+2,H,SPNT,Q-SPNT,hot spring(s)
+2,H,STM,Q-STM,stream
+2,H,STMA,Q-STMA,anabranch
+2,H,STMB,Q-STMB,stream bend
+2,H,STMC,Q-STMC,canalized stream
+2,H,STMD,Q-STMD,distributary(-ies)
+2,H,STMH,Q-STMH,headwaters
+2,H,STMI,Q-STMI,intermittent stream
+2,H,STMIX,Q-STMIX,section of intermittent stream
+2,H,STMM,Q-STMM,stream mouth(s)
+2,H,STMQ,Q-STMQ,abandoned watercourse
+2,H,STMS,Q-STMS,streams
+2,H,STMSB,Q-STMSB,lost river
+2,H,STMX,Q-STMX,section of stream
+2,H,STRT,Q-STRT,strait
+2,H,SWMP,Q-SWMP,swamp
+2,H,SYSI,Q-SYSI,irrigation system
+2,H,TNLC,Q-TNLC,canal tunnel
+2,H,WAD,Q-WAD,wadi
+2,H,WADB,Q-WADB,wadi bend
+2,H,WADJ,Q-WADJ,wadi junction
+2,H,WADM,Q-WADM,wadi mouth
+2,H,WADS,Q-WADS,wadies
+2,H,WADX,Q-WADX,section of wadi
+2,H,WHRL,Q-WHRL,whirlpool
+2,H,WLL,Q-WLL,well
+2,H,WLLQ,Q-WLLQ,abandoned well
+2,H,WLLS,Q-WLLS,wells
+2,H,WTLD,Q-WTLD,wetland
+2,H,WTLDI,Q-WTLDI,intermittent wetland
+2,H,WTRC,Q-WTRC,watercourse
+2,H,WTRH,Q-WTRH,waterhole(s)
+3,L,AGRC,Q-AGRC,agricultural colony
+3,L,AMUS,Q-AMUS,amusement park
+3,L,AREA,Q-AREA,area
+3,L,BSND,Q-BSND,drainage basin
+3,L,BSNP,Q-BSNP,petroleum basin
+3,L,BTL,Q-BTL,battlefield
+3,L,CLG,Q-CLG,clearing
+3,L,CMN,Q-CMN,common
+3,L,CNS,Q-CNS,concession area
+3,L,COLF,Q-COLF,coalfield
+3,L,CONT,Q-CONT,continent
+3,L,CST,Q-CST,coast
+3,L,CTRB,Q-CTRB,business center
+3,L,DEVH,Q-DEVH,housing development
+3,L,FLD,Q-FLD,field(s)
+3,L,FLDI,Q-FLDI,irrigated field(s)
+3,L,GASF,Q-GASF,gasfield
+3,L,GRAZ,Q-GRAZ,grazing area
+3,L,GVL,Q-GVL,gravel area
+3,L,INDS,Q-INDS,industrial area
+3,L,LAND,Q-LAND,arctic land
+3,L,LCTY,Q-LCTY,locality
+3,L,MILB,Q-MILB,military base
+3,L,MNA,Q-MNA,mining area
+3,L,MVA,Q-MVA,maneuver area
+3,L,NVB,Q-NVB,naval base
+3,L,OAS,Q-OAS,oasis(-es)
+3,L,OILF,Q-OILF,oilfield
+3,L,PEAT,Q-PEAT,peat cutting area
+3,L,PRK,Q-PRK,park
+3,L,PRT,Q-PRT,port
+3,L,QCKS,Q-QCKS,quicksand
+3,L,RES,Q-RES,reserve
+3,L,RESA,Q-RESA,agricultural reserve
+3,L,RESF,Q-RESF,forest reserve
+3,L,RESH,Q-RESH,hunting reserve
+3,L,RESN,Q-RESN,nature reserve
+3,L,RESP,Q-RESP,palm tree reserve
+3,L,RESV,Q-RESV,reservation
+3,L,RESW,Q-RESW,wildlife reserve
+3,L,RGN,Q-RGN,region
+3,L,RGNE,Q-RGNE,economic region
+3,L,RGNH,Q-RGNH,historical region
+3,L,RGNL,Q-RGNL,lake region
+3,L,RNGA,Q-RNGA,artillery range
+3,L,SALT,Q-SALT,salt area
+3,L,SNOW,Q-SNOW,snowfield
+3,L,TRB,Q-TRB,tribal area
+4,P,PPL,Q-PPL,populated place
+4,P,PPLA,Q-PPLA,seat of a first-order administrative division
+4,P,PPLA2,Q-PPLA2,seat of a second-order administrative division
+4,P,PPLA3,Q-PPLA3,seat of a third-order administrative division
+4,P,PPLA4,Q-PPLA4,seat of a fourth-order administrative division
+4,P,PPLC,Q-PPLC,capital of a political entity
+4,P,PPLCH,Q-PPLCH,historical capital of a political entity
+4,P,PPLF,Q-PPLF,farm village
+4,P,PPLG,Q-PPLG,seat of government of a political entity
+4,P,PPLH,Q-PPLH,historical populated place
+4,P,PPLL,Q-PPLL,populated locality
+4,P,PPLQ,Q-PPLQ,abandoned populated place
+4,P,PPLR,Q-PPLR,religious populated place
+4,P,PPLS,Q-PPLS,populated places
+4,P,PPLW,Q-PPLW,destroyed populated place
+4,P,PPLX,Q-PPLX,section of populated place
+4,P,STLMT,Q-STLMT,israeli settlement
+5,R,CSWY,Q-CSWY,causeway
+5,R,OILP,Q-OILP,oil pipeline
+5,R,PRMN,Q-PRMN,promenade
+5,R,PTGE,Q-PTGE,portage
+5,R,RD,Q-RD,road
+5,R,RDA,Q-RDA,ancient road
+5,R,RDB,Q-RDB,road bend
+5,R,RDCUT,Q-RDCUT,road cut
+5,R,RDJCT,Q-RDJCT,road junction
+5,R,RJCT,Q-RJCT,railroad junction
+5,R,RR,Q-RR,railroad
+5,R,RRQ,Q-RRQ,abandoned railroad
+5,R,RTE,Q-RTE,caravan route
+5,R,RYD,Q-RYD,railroad yard
+5,R,ST,Q-ST,street
+5,R,STKR,Q-STKR,stock route
+5,R,TNL,Q-TNL,tunnel
+5,R,TNLN,Q-TNLN,natural tunnel
+5,R,TNLRD,Q-TNLRD,road tunnel
+5,R,TNLRR,Q-TNLRR,railroad tunnel
+5,R,TNLS,Q-TNLS,tunnels
+5,R,TRL,Q-TRL,trail
+6,S,ADMF,Q-ADMF,administrative facility
+6,S,AGRF,Q-AGRF,agricultural facility
+6,S,AIRB,Q-AIRB,airbase
+6,S,AIRF,Q-AIRF,airfield
+6,S,AIRH,Q-AIRH,heliport
+6,S,AIRP,Q-AIRP,airport
+6,S,AIRQ,Q-AIRQ,abandoned airfield
+6,S,AMTH,Q-AMTH,amphitheater
+6,S,ANS,Q-ANS,ancient site
+6,S,AQC,Q-AQC,aquaculture facility
+6,S,ARCH,Q-ARCH,arch
+6,S,ASTR,Q-ASTR,astronomical station
+6,S,ASYL,Q-ASYL,asylum
+6,S,ATHF,Q-ATHF,athletic field
+6,S,ATM,Q-ATM,automatic teller machine
+6,S,BANK,Q-BANK,bank
+6,S,BCN,Q-BCN,beacon
+6,S,BDG,Q-BDG,bridge
+6,S,BDGQ,Q-BDGQ,ruined bridge
+6,S,BLDG,Q-BLDG,building(s)
+6,S,BLDO,Q-BLDO,office building
+6,S,BP,Q-BP,boundary marker
+6,S,BRKS,Q-BRKS,barracks
+6,S,BRKW,Q-BRKW,breakwater
+6,S,BSTN,Q-BSTN,baling station
+6,S,BTYD,Q-BTYD,boatyard
+6,S,BUR,Q-BUR,burial cave(s)
+6,S,BUSTN,Q-BUSTN,bus station
+6,S,BUSTP,Q-BUSTP,bus stop
+6,S,CARN,Q-CARN,cairn
+6,S,CAVE,Q-CAVE,cave(s)
+6,S,CH,Q-CH,church
+6,S,CMP,Q-CMP,camp(s)
+6,S,CMPL,Q-CMPL,logging camp
+6,S,CMPLA,Q-CMPLA,labor camp
+6,S,CMPMN,Q-CMPMN,mining camp
+6,S,CMPO,Q-CMPO,oil camp
+6,S,CMPQ,Q-CMPQ,abandoned camp
+6,S,CMPRF,Q-CMPRF,refugee camp
+6,S,CMTY,Q-CMTY,cemetery
+6,S,COMC,Q-COMC,communication center
+6,S,CRRL,Q-CRRL,corral(s)
+6,S,CSNO,Q-CSNO,casino
+6,S,CSTL,Q-CSTL,castle
+6,S,CSTM,Q-CSTM,customs house
+6,S,CTHSE,Q-CTHSE,courthouse
+6,S,CTRA,Q-CTRA,atomic center
+6,S,CTRCM,Q-CTRCM,community center
+6,S,CTRF,Q-CTRF,facility center
+6,S,CTRM,Q-CTRM,medical center
+6,S,CTRR,Q-CTRR,religious center
+6,S,CTRS,Q-CTRS,space center
+6,S,CVNT,Q-CVNT,convent
+6,S,DAM,Q-DAM,dam
+6,S,DAMQ,Q-DAMQ,ruined dam
+6,S,DAMSB,Q-DAMSB,sub-surface dam
+6,S,DARY,Q-DARY,dairy
+6,S,DCKD,Q-DCKD,dry dock
+6,S,DCKY,Q-DCKY,dockyard
+6,S,DIKE,Q-DIKE,dike
+6,S,DIP,Q-DIP,diplomatic facility
+6,S,DPOF,Q-DPOF,fuel depot
+6,S,EST,Q-EST,estate(s)
+6,S,ESTO,Q-ESTO,oil palm plantation
+6,S,ESTR,Q-ESTR,rubber plantation
+6,S,ESTSG,Q-ESTSG,sugar plantation
+6,S,ESTT,Q-ESTT,tea plantation
+6,S,ESTX,Q-ESTX,section of estate
+6,S,FCL,Q-FCL,facility
+6,S,FNDY,Q-FNDY,foundry
+6,S,FRM,Q-FRM,farm
+6,S,FRMQ,Q-FRMQ,abandoned farm
+6,S,FRMS,Q-FRMS,farms
+6,S,FRMT,Q-FRMT,farmstead
+6,S,FT,Q-FT,fort
+6,S,FY,Q-FY,ferry
+6,S,GATE,Q-GATE,gate
+6,S,GDN,Q-GDN,garden(s)
+6,S,GHAT,Q-GHAT,ghat
+6,S,GHSE,Q-GHSE,guest house
+6,S,GOSP,Q-GOSP,gas-oil separator plant
+6,S,GOVL,Q-GOVL,local government office
+6,S,GRVE,Q-GRVE,grave
+6,S,HERM,Q-HERM,hermitage
+6,S,HLT,Q-HLT,halting place
+6,S,HMSD,Q-HMSD,homestead
+6,S,HSE,Q-HSE,house(s)
+6,S,HSEC,Q-HSEC,country house
+6,S,HSP,Q-HSP,hospital
+6,S,HSPC,Q-HSPC,clinic
+6,S,HSPD,Q-HSPD,dispensary
+6,S,HSPL,Q-HSPL,leprosarium
+6,S,HSTS,Q-HSTS,historical site
+6,S,HTL,Q-HTL,hotel
+6,S,HUT,Q-HUT,hut
+6,S,HUTS,Q-HUTS,huts
+6,S,INSM,Q-INSM,military installation
+6,S,ITTR,Q-ITTR,research institute
+6,S,JTY,Q-JTY,jetty
+6,S,LDNG,Q-LDNG,landing
+6,S,LEPC,Q-LEPC,leper colony
+6,S,LIBR,Q-LIBR,library
+6,S,LNDF,Q-LNDF,landfill
+6,S,LOCK,Q-LOCK,lock(s)
+6,S,LTHSE,Q-LTHSE,lighthouse
+6,S,MALL,Q-MALL,mall
+6,S,MAR,Q-MAR,marina
+6,S,MFG,Q-MFG,factory
+6,S,MFGB,Q-MFGB,brewery
+6,S,MFGC,Q-MFGC,cannery
+6,S,MFGCU,Q-MFGCU,copper works
+6,S,MFGLM,Q-MFGLM,limekiln
+6,S,MFGM,Q-MFGM,munitions plant
+6,S,MFGPH,Q-MFGPH,phosphate works
+6,S,MFGQ,Q-MFGQ,abandoned factory
+6,S,MFGSG,Q-MFGSG,sugar refinery
+6,S,MKT,Q-MKT,market
+6,S,ML,Q-ML,mill(s)
+6,S,MLM,Q-MLM,ore treatment plant
+6,S,MLO,Q-MLO,olive oil mill
+6,S,MLSG,Q-MLSG,sugar mill
+6,S,MLSGQ,Q-MLSGQ,former sugar mill
+6,S,MLSW,Q-MLSW,sawmill
+6,S,MLWND,Q-MLWND,windmill
+6,S,MLWTR,Q-MLWTR,water mill
+6,S,MN,Q-MN,mine(s)
+6,S,MNAU,Q-MNAU,gold mine(s)
+6,S,MNC,Q-MNC,coal mine(s)
+6,S,MNCR,Q-MNCR,chrome mine(s)
+6,S,MNCU,Q-MNCU,copper mine(s)
+6,S,MNFE,Q-MNFE,iron mine(s)
+6,S,MNMT,Q-MNMT,monument
+6,S,MNN,Q-MNN,salt mine(s)
+6,S,MNQ,Q-MNQ,abandoned mine
+6,S,MNQR,Q-MNQR,quarry(-ies)
+6,S,MOLE,Q-MOLE,mole
+6,S,MSQE,Q-MSQE,mosque
+6,S,MSSN,Q-MSSN,mission
+6,S,MSSNQ,Q-MSSNQ,abandoned mission
+6,S,MSTY,Q-MSTY,monastery
+6,S,MTRO,Q-MTRO,metro station
+6,S,MUS,Q-MUS,museum
+6,S,NOV,Q-NOV,novitiate
+6,S,NSY,Q-NSY,nursery(-ies)
+6,S,OBPT,Q-OBPT,observation point
+6,S,OBS,Q-OBS,observatory
+6,S,OBSR,Q-OBSR,radio observatory
+6,S,OILJ,Q-OILJ,oil pipeline junction
+6,S,OILQ,Q-OILQ,abandoned oil well
+6,S,OILR,Q-OILR,oil refinery
+6,S,OILT,Q-OILT,tank farm
+6,S,OILW,Q-OILW,oil well
+6,S,OPRA,Q-OPRA,opera house
+6,S,PAL,Q-PAL,palace
+6,S,PGDA,Q-PGDA,pagoda
+6,S,PIER,Q-PIER,pier
+6,S,PKLT,Q-PKLT,parking lot
+6,S,PMPO,Q-PMPO,oil pumping station
+6,S,PMPW,Q-PMPW,water pumping station
+6,S,PO,Q-PO,post office
+6,S,PP,Q-PP,police post
+6,S,PPQ,Q-PPQ,abandoned police post
+6,S,PRKGT,Q-PRKGT,park gate
+6,S,PRKHQ,Q-PRKHQ,park headquarters
+6,S,PRN,Q-PRN,prison
+6,S,PRNJ,Q-PRNJ,reformatory
+6,S,PRNQ,Q-PRNQ,abandoned prison
+6,S,PS,Q-PS,power station
+6,S,PSH,Q-PSH,hydroelectric power station
+6,S,PSTB,Q-PSTB,border post
+6,S,PSTC,Q-PSTC,customs post
+6,S,PSTP,Q-PSTP,patrol post
+6,S,PYR,Q-PYR,pyramid
+6,S,PYRS,Q-PYRS,pyramids
+6,S,QUAY,Q-QUAY,quay
+6,S,RDCR,Q-RDCR,traffic circle
+6,S,RECG,Q-RECG,golf course
+6,S,RECR,Q-RECR,racetrack
+6,S,REST,Q-REST,restaurant
+6,S,RET,Q-RET,store
+6,S,RHSE,Q-RHSE,resthouse
+6,S,RKRY,Q-RKRY,rookery
+6,S,RLG,Q-RLG,religious site
+6,S,RLGR,Q-RLGR,retreat
+6,S,RNCH,Q-RNCH,ranch(es)
+6,S,RSD,Q-RSD,railroad siding
+6,S,RSGNL,Q-RSGNL,railroad signal
+6,S,RSRT,Q-RSRT,resort
+6,S,RSTN,Q-RSTN,railroad station
+6,S,RSTNQ,Q-RSTNQ,abandoned railroad station
+6,S,RSTP,Q-RSTP,railroad stop
+6,S,RSTPQ,Q-RSTPQ,abandoned railroad stop
+6,S,RUIN,Q-RUIN,ruin(s)
+6,S,SCH,Q-SCH,school
+6,S,SCHA,Q-SCHA,agricultural school
+6,S,SCHC,Q-SCHC,college
+6,S,SCHL,Q-SCHL,language school
+6,S,SCHM,Q-SCHM,military school
+6,S,SCHN,Q-SCHN,maritime school
+6,S,SCHT,Q-SCHT,technical school
+6,S,SECP,Q-SECP,State Exam Prep Centre
+6,S,SHPF,Q-SHPF,sheepfold
+6,S,SHRN,Q-SHRN,shrine
+6,S,SHSE,Q-SHSE,storehouse
+6,S,SLCE,Q-SLCE,sluice
+6,S,SNTR,Q-SNTR,sanatorium
+6,S,SPA,Q-SPA,spa
+6,S,SPLY,Q-SPLY,spillway
+6,S,SQR,Q-SQR,square
+6,S,STBL,Q-STBL,stable
+6,S,STDM,Q-STDM,stadium
+6,S,STNB,Q-STNB,scientific research base
+6,S,STNC,Q-STNC,coast guard station
+6,S,STNE,Q-STNE,experiment station
+6,S,STNF,Q-STNF,forest station
+6,S,STNI,Q-STNI,inspection station
+6,S,STNM,Q-STNM,meteorological station
+6,S,STNR,Q-STNR,radio station
+6,S,STNS,Q-STNS,satellite station
+6,S,STNW,Q-STNW,whaling station
+6,S,STPS,Q-STPS,steps
+6,S,SWT,Q-SWT,sewage treatment plant
+6,S,THTR,Q-THTR,theater
+6,S,TMB,Q-TMB,tomb(s)
+6,S,TMPL,Q-TMPL,temple(s)
+6,S,TNKD,Q-TNKD,cattle dipping tank
+6,S,TOWR,Q-TOWR,tower
+6,S,TRANT,Q-TRANT,transit terminal
+6,S,TRIG,Q-TRIG,triangulation station
+6,S,TRMO,Q-TRMO,oil pipeline terminal
+6,S,TWO,Q-TWO,temp work office
+6,S,UNIP,Q-UNIP,university prep school
+6,S,UNIV,Q-UNIV,university
+6,S,USGE,Q-USGE,united states government establishment
+6,S,VETF,Q-VETF,veterinary facility
+6,S,WALL,Q-WALL,wall
+6,S,WALLA,Q-WALLA,ancient wall
+6,S,WEIR,Q-WEIR,weir(s)
+6,S,WHRF,Q-WHRF,wharf(-ves)
+6,S,WRCK,Q-WRCK,wreck
+6,S,WTRW,Q-WTRW,waterworks
+6,S,ZNF,Q-ZNF,free trade zone
+6,S,ZOO,Q-ZOO,zoo
+7,T,ASPH,Q-ASPH,asphalt lake
+7,T,ATOL,Q-ATOL,atoll(s)
+7,T,BAR,Q-BAR,bar
+7,T,BCH,Q-BCH,beach
+7,T,BCHS,Q-BCHS,beaches
+7,T,BDLD,Q-BDLD,badlands
+7,T,BLDR,Q-BLDR,boulder field
+7,T,BLHL,Q-BLHL,blowhole(s)
+7,T,BLOW,Q-BLOW,blowout(s)
+7,T,BNCH,Q-BNCH,bench
+7,T,BUTE,Q-BUTE,butte(s)
+7,T,CAPE,Q-CAPE,cape
+7,T,CFT,Q-CFT,cleft(s)
+7,T,CLDA,Q-CLDA,caldera
+7,T,CLF,Q-CLF,cliff(s)
+7,T,CNYN,Q-CNYN,canyon
+7,T,CONE,Q-CONE,cone(s)
+7,T,CRDR,Q-CRDR,corridor
+7,T,CRQ,Q-CRQ,cirque
+7,T,CRQS,Q-CRQS,cirques
+7,T,CRTR,Q-CRTR,crater(s)
+7,T,CUET,Q-CUET,cuesta(s)
+7,T,DLTA,Q-DLTA,delta
+7,T,DPR,Q-DPR,depression(s)
+7,T,DSRT,Q-DSRT,desert
+7,T,DUNE,Q-DUNE,dune(s)
+7,T,DVD,Q-DVD,divide
+7,T,ERG,Q-ERG,sandy desert
+7,T,FAN,Q-FAN,fan(s)
+7,T,FORD,Q-FORD,ford
+7,T,FSR,Q-FSR,fissure
+7,T,GAP,Q-GAP,gap
+7,T,GRGE,Q-GRGE,gorge(s)
+7,T,HDLD,Q-HDLD,headland
+7,T,HLL,Q-HLL,hill
+7,T,HLLS,Q-HLLS,hills
+7,T,HMCK,Q-HMCK,hammock(s)
+7,T,HMDA,Q-HMDA,rock desert
+7,T,INTF,Q-INTF,interfluve
+7,T,ISL,Q-ISL,island
+7,T,ISLET,Q-ISLET,islet
+7,T,ISLF,Q-ISLF,artificial island
+7,T,ISLM,Q-ISLM,mangrove island
+7,T,ISLS,Q-ISLS,islands
+7,T,ISLT,Q-ISLT,land-tied island
+7,T,ISLX,Q-ISLX,section of island
+7,T,ISTH,Q-ISTH,isthmus
+7,T,KRST,Q-KRST,karst area
+7,T,LAVA,Q-LAVA,lava area
+7,T,LEV,Q-LEV,levee
+7,T,MESA,Q-MESA,mesa(s)
+7,T,MND,Q-MND,mound(s)
+7,T,MRN,Q-MRN,moraine
+7,T,MT,Q-MT,mountain
+7,T,MTS,Q-MTS,mountains
+7,T,NKM,Q-NKM,meander neck
+7,T,NTK,Q-NTK,nunatak
+7,T,NTKS,Q-NTKS,nunataks
+7,T,PAN,Q-PAN,pan
+7,T,PANS,Q-PANS,pans
+7,T,PASS,Q-PASS,pass
+7,T,PEN,Q-PEN,peninsula
+7,T,PENX,Q-PENX,section of peninsula
+7,T,PK,Q-PK,peak
+7,T,PKS,Q-PKS,peaks
+7,T,PLAT,Q-PLAT,plateau
+7,T,PLATX,Q-PLATX,section of plateau
+7,T,PLDR,Q-PLDR,polder
+7,T,PLN,Q-PLN,plain(s)
+7,T,PLNX,Q-PLNX,section of plain
+7,T,PROM,Q-PROM,promontory(-ies)
+7,T,PT,Q-PT,point
+7,T,PTS,Q-PTS,points
+7,T,RDGB,Q-RDGB,beach ridge
+7,T,RDGE,Q-RDGE,ridge(s)
+7,T,REG,Q-REG,stony desert
+7,T,RK,Q-RK,rock
+7,T,RKFL,Q-RKFL,rockfall
+7,T,RKS,Q-RKS,rocks
+7,T,SAND,Q-SAND,sand area
+7,T,SBED,Q-SBED,dry stream bed
+7,T,SCRP,Q-SCRP,escarpment
+7,T,SDL,Q-SDL,saddle
+7,T,SHOR,Q-SHOR,shore
+7,T,SINK,Q-SINK,sinkhole
+7,T,SLID,Q-SLID,slide
+7,T,SLP,Q-SLP,slope(s)
+7,T,SPIT,Q-SPIT,spit
+7,T,SPUR,Q-SPUR,spur(s)
+7,T,TAL,Q-TAL,talus slope
+7,T,TRGD,Q-TRGD,interdune trough(s)
+7,T,TRR,Q-TRR,terrace
+7,T,UPLD,Q-UPLD,upland
+7,T,VAL,Q-VAL,valley
+7,T,VALG,Q-VALG,hanging valley
+7,T,VALS,Q-VALS,valleys
+7,T,VALX,Q-VALX,section of valley
+7,T,VLC,Q-VLC,volcano
+8,U,APNU,Q-APNU,apron
+8,U,ARCU,Q-ARCU,arch
+8,U,ARRU,Q-ARRU,arrugado
+8,U,BDLU,Q-BDLU,borderland
+8,U,BKSU,Q-BKSU,banks
+8,U,BNKU,Q-BNKU,bank
+8,U,BSNU,Q-BSNU,basin
+8,U,CDAU,Q-CDAU,cordillera
+8,U,CNSU,Q-CNSU,canyons
+8,U,CNYU,Q-CNYU,canyon
+8,U,CRSU,Q-CRSU,continental rise
+8,U,DEPU,Q-DEPU,deep
+8,U,EDGU,Q-EDGU,shelf edge
+8,U,ESCU,Q-ESCU,escarpment (or scarp)
+8,U,FANU,Q-FANU,fan
+8,U,FLTU,Q-FLTU,flat
+8,U,FRZU,Q-FRZU,fracture zone
+8,U,FURU,Q-FURU,furrow
+8,U,GAPU,Q-GAPU,gap
+8,U,GLYU,Q-GLYU,gully
+8,U,HLLU,Q-HLLU,hill
+8,U,HLSU,Q-HLSU,hills
+8,U,HOLU,Q-HOLU,hole
+8,U,KNLU,Q-KNLU,knoll
+8,U,KNSU,Q-KNSU,knolls
+8,U,LDGU,Q-LDGU,ledge
+8,U,LEVU,Q-LEVU,levee
+8,U,MESU,Q-MESU,mesa
+8,U,MNDU,Q-MNDU,mound
+8,U,MOTU,Q-MOTU,moat
+8,U,MTU,Q-MTU,mountain
+8,U,PKSU,Q-PKSU,peaks
+8,U,PKU,Q-PKU,peak
+8,U,PLNU,Q-PLNU,plain
+8,U,PLTU,Q-PLTU,plateau
+8,U,PNLU,Q-PNLU,pinnacle
+8,U,PRVU,Q-PRVU,province
+8,U,RDGU,Q-RDGU,ridge
+8,U,RDSU,Q-RDSU,ridges
+8,U,RFSU,Q-RFSU,reefs
+8,U,RFU,Q-RFU,reef
+8,U,RISU,Q-RISU,rise
+8,U,SCNU,Q-SCNU,seachannel
+8,U,SCSU,Q-SCSU,seachannels
+8,U,SDLU,Q-SDLU,saddle
+8,U,SHFU,Q-SHFU,shelf
+8,U,SHLU,Q-SHLU,shoal
+8,U,SHSU,Q-SHSU,shoals
+8,U,SHVU,Q-SHVU,shelf valley
+8,U,SILU,Q-SILU,sill
+8,U,SLPU,Q-SLPU,slope
+8,U,SMSU,Q-SMSU,seamounts
+8,U,SMU,Q-SMU,seamount
+8,U,SPRU,Q-SPRU,spur
+8,U,TERU,Q-TERU,terrace
+8,U,TMSU,Q-TMSU,tablemounts (or guyots)
+8,U,TMTU,Q-TMTU,tablemount (or guyot)
+8,U,TNGU,Q-TNGU,tongue
+8,U,TRGU,Q-TRGU,trough
+8,U,TRNU,Q-TRNU,trench
+8,U,VALU,Q-VALU,valley
+8,U,VLSU,Q-VLSU,valleys
+9,V,BUSH,Q-BUSH,bush(es)
+9,V,CULT,Q-CULT,cultivated area
+9,V,FRST,Q-FRST,forest(s)
+9,V,FRSTF,Q-FRSTF,fossilized forest
+9,V,GRSLD,Q-GRSLD,grassland
+9,V,GRVC,Q-GRVC,coconut grove
+9,V,GRVO,Q-GRVO,olive grove
+9,V,GRVP,Q-GRVP,palm grove
+9,V,GRVPN,Q-GRVPN,pine grove
+9,V,HTH,Q-HTH,heath
+9,V,MDW,Q-MDW,meadow
+9,V,OCH,Q-OCH,orchard(s)
+9,V,SCRB,Q-SCRB,scrubland
+9,V,TREE,Q-TREE,tree(s)
+9,V,TUND,Q-TUND,tundra
+9,V,VIN,Q-VIN,vineyard
+9,V,VINS,Q-VINS,vineyards
